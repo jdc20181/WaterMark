@@ -53,3 +53,10 @@ Finalize the CSS:
 
 You can now Customize it. Look at the `CustomizingGuide.MD` for information. 
 
+
+#New Version 
+
+The issue is that the code isn't passing, and executing so nothing happens. I added a fix for the CSS, however it will not change the `Text-Decoration` property. The CSS is 100% valid no issues, but it just won't be accepted. 
+Secondly, the user must put a `<head>` element in order for it to apply the css, otherwise it will just be a mess. 
+
+Here is the working [demo on codepen](http://codepen.io/anon/pen/vgXPMb) I will be updating it regularly to fix this issue.  

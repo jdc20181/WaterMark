@@ -5,7 +5,6 @@ A WaterMarking System using basic JS
 
 Basically, what it can do is insert a watermark so people know what libary it is powered by etc. Really, if you have a bigger libary in terms of popularity this isn't reccomended.
 
-since I don't prohibit Commercial use, you can use this in a Free version and offer to remove it for X dollars. 
 
 #Setting Up:
 
